@@ -1,0 +1,4 @@
+# super cool coding project
+
+if __name__ == "__main__":
+    print(1+2)
